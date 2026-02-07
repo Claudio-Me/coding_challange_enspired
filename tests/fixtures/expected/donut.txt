@@ -1,0 +1,6 @@
+total:
+W: 4, P: 0, S: 2, C: 1
+inner:
+W: 0, P: 0, S: 0, C: 1
+outer:
+W: 4, P: 0, S: 2, C: 0

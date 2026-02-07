@@ -1,0 +1,4 @@
+total:
+W: 4, P: 4, S: 2, C: 2
+compact:
+W: 4, P: 4, S: 2, C: 2

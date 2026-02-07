@@ -1,0 +1,6 @@
+total:
+W: 5, P: 3, S: 2, C: 3
+tree room:
+W: 5, P: 3, S: 2, C: 2
+z:
+W: 0, P: 0, S: 0, C: 1

@@ -1,0 +1,22 @@
+total:
+W: 10, P: 5, S: 6, C: 3
+bath:
+W: 0, P: 1, S: 0, C: 0
+bedroom:
+W: 2, P: 0, S: 1, C: 0
+closet:
+W: 0, P: 1, S: 0, C: 0
+deck:
+W: 0, P: 0, S: 3, C: 1
+great hall:
+W: 4, P: 0, S: 2, C: 0
+kitchen:
+W: 3, P: 1, S: 0, C: 0
+shed:
+W: 1, P: 0, S: 0, C: 0
+storage:
+W: 0, P: 0, S: 0, C: 2
+sun:
+W: 0, P: 2, S: 0, C: 0
+wc:
+W: 0, P: 0, S: 0, C: 0

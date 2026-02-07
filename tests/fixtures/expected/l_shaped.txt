@@ -1,0 +1,6 @@
+total:
+W: 3, P: 0, S: 1, C: 1
+den:
+W: 0, P: 0, S: 0, C: 1
+living room:
+W: 3, P: 0, S: 1, C: 0

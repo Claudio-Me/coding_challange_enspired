@@ -1,0 +1,12 @@
+total:
+W: 3, P: 2, S: 0, C: 0
+bath:
+W: 0, P: 1, S: 0, C: 0
+bed1:
+W: 1, P: 0, S: 0, C: 0
+bed2:
+W: 2, P: 0, S: 0, C: 0
+corridor:
+W: 0, P: 1, S: 0, C: 0
+stor:
+W: 0, P: 0, S: 0, C: 0
